@@ -1,1 +1,1 @@
-[Github Profile] https://github.com/qk-fos
+[Github Profile] (https://github.com/qk-fos)
